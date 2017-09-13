@@ -1,0 +1,17 @@
+/* Nao se esqueca de preencher adequadamente as 3 linhas abaixo */
+#define MAX
+#define QTPROD 
+
+
+int main(void)
+{
+	int qt = 5;
+	float site, empresa, cartao, cartaoger = 0;
+	int i,j;
+	int QtVend[MAX][QTPROD]={{10,11,10}, {2,5,2},{13,310,31},{110,103,130},{500,230,100}};
+	float ValProds[MAX][QTPROD]={{10.00,40.00,20.00}, {20.00,50.00,25.00},  {130.00,3.00,1.00}, {11.00,10.00,19.00}, {150.00,223.00,230.00}};
+	int codigos[MAX] = {6565, 1221, 9888, 3334, 7654};
+
+
+	return 0;
+}	

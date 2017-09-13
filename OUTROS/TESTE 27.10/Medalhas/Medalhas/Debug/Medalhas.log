@@ -1,0 +1,9 @@
+﻿  m.c
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(76): warning C4047: 'function': 'int (*)[5]' differs in levels of indirection from 'int'
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(76): warning C4024: 'preenche': different types for formal and actual parameter 1
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(77): warning C4047: 'function': 'int (*)[5]' differs in levels of indirection from 'int'
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(77): warning C4024: 'exibe': different types for formal and actual parameter 1
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(74): warning C4101: 'i': unreferenced local variable
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(15): warning C4715: 'qualMedalha': not all control paths return a value
+c:\users\conrado\desktop\teste 27.10\medalhas\medalhas\m.c(23): warning C4716: 'zeraLinha': must return a value
+  Medalhas.vcxproj -> C:\Users\Conrado\Desktop\TESTE 27.10\Medalhas\Debug\Medalhas.exe

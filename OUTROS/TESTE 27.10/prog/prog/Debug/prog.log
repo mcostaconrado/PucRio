@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\conrado\desktop\teste 27.10\prog\prog\main.c(120): warning C4101: 'quantMerc': unreferenced local variable
+  prog.vcxproj -> C:\Users\Conrado\Desktop\TESTE 27.10\prog\Debug\prog.exe

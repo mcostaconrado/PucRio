@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\conrado\desktop\puc\3º período\prog ii\até g2\lista p2\exercicio 01\exercicio 01\main.c(54): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (*)[7]'
+c:\users\conrado\desktop\puc\3º período\prog ii\até g2\lista p2\exercicio 01\exercicio 01\main.c(45): warning C4716: 'interseccao': must return a value
+  Exercicio 01.vcxproj -> C:\Users\Conrado\Desktop\PUC\3º PERÍODO\PROG II\ATÉ G2\Lista p2\Exercicio 01\Debug\Exercicio 01.exe

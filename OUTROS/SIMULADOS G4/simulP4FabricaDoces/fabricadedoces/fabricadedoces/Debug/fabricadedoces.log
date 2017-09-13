@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\conrado\desktop\simulados g4\simulp4fabricadoces\fabricadedoces\fabricadedoces\main.c(23): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\conrado\desktop\simulados g4\simulp4fabricadoces\fabricadedoces\fabricadedoces\main.c(26): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\conrado\desktop\simulados g4\simulp4fabricadoces\fabricadedoces\fabricadedoces\main.c(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\conrado\desktop\simulados g4\simulp4fabricadoces\fabricadedoces\fabricadedoces\main.c(40): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\conrado\desktop\simulados g4\simulp4fabricadoces\fabricadedoces\fabricadedoces\main.c(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\conrado\desktop\simulados g4\simulp4fabricadoces\fabricadedoces\fabricadedoces\main.c(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  fabricadedoces.vcxproj -> C:\Users\Conrado\Desktop\SIMULADOS G4\simulP4FabricaDoces\fabricadedoces\Debug\fabricadedoces.exe

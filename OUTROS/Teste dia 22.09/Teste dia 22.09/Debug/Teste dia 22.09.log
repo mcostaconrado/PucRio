@@ -1,0 +1,8 @@
+﻿  teste.c
+c:\users\conrado\desktop\teste dia 22.09\teste dia 22.09\teste.c(9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\conrado\desktop\teste dia 22.09\teste dia 22.09\teste.c(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\conrado\desktop\teste dia 22.09\teste dia 22.09\teste.c(61): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\conrado\desktop\teste dia 22.09\teste dia 22.09\teste.c(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\conrado\desktop\teste dia 22.09\teste dia 22.09\teste.c(62): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\conrado\desktop\teste dia 22.09\teste dia 22.09\teste.c(65): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Teste dia 22.09.vcxproj -> C:\Users\Conrado\Desktop\Teste dia 22.09\Debug\Teste dia 22.09.exe

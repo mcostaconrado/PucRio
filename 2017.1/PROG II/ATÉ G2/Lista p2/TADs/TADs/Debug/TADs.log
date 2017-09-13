@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: unresolved external symbol _cj_remove referenced in function _main
+C:\Users\Conrado\Desktop\PUC\3º PERÍODO\PROG II\ATÉ G2\Lista p2\TADs\Debug\TADs.exe : fatal error LNK1120: 1 unresolved externals
